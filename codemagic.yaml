@@ -44,4 +44,4 @@ workflows:
     publishing:
       app_store_connect:
         apple_id: leonhelievv@gmail.com  # PUT YOUR APPLE ID HERE
-        password: 'giHtiimthtiitw7' # PUT YOUR APP-SPECIFIC-PASSWORD HERE https://support.apple.com/en-us/HT204397
+        password: "giHtiimthtiitw7" # PUT YOUR APP-SPECIFIC-PASSWORD HERE https://support.apple.com/en-us/HT204397
